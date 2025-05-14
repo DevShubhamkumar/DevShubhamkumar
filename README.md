@@ -44,7 +44,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/DevShubhamkumar/shubham-kumar/raw/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/DevShubhamkumar/DevShubhamkumar/raw/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
