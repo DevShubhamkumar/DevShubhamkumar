@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Always+Learning+and+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;RReact+%7C+Node+%7C+MongoDB+%7C+Express;Always+Learning+and+Building!" alt="Typing SVG" />
 </p>
 
 ---
